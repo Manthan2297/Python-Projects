@@ -27,7 +27,7 @@ def complete_task():
 
 root = tk.Tk()
 root.title("To-Do List")
-root.geometry("400x400")
+root.geometry("600x400")
 
 title_label = tk.Label(root, text="To-Do List", font=("Arial", 18))
 title_label.pack(pady=10)
