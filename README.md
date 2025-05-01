@@ -26,6 +26,13 @@ A classic Tic-Tac-Toe game with a simple GUI, allowing two players to compete in
 ![image](https://github.com/user-attachments/assets/9365945c-1995-48c0-99f9-75ec1afa75a2)
 
 
+### 📋 To-Do List Application
+A simple and fun To-Do List app built with Python and Tkinter. Manage your tasks, mark them as completed, and delete them when you're done.
+
+![image](https://github.com/user-attachments/assets/6ac637bf-9fd6-498e-af10-2644d1af8ba0)
+
+---
+
 - More projects coming soon!
 
 ## How to Run:
